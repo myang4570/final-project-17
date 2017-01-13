@@ -31,3 +31,15 @@ Your final project is to visualize data using Python and Bokeh. You may use any 
 * Copies of your data
 * The visualizations created by your program
 
+# Process
+
+## Step 1 - Find Data
+
+If you need help sourcing data, let me know. I can help
+
+## Step 2 - How are you planning to visualize the data?
+
+* In a file called ```vis-ideas.md```, list some ideas for how you want to visualize your data
+* You won't necessarily get to all of them, but that's okay
+* Try to include some you might not necessarily know how to do yet
+* To create a bulleted list, use an asterisk at the start of the line, and have a blank line before the list
