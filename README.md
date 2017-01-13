@@ -74,3 +74,9 @@ To create a DataFrame named ```df``` from a csv file named ```data.csv```:
 ```python
 df = pd.read_csv('data.csv')
 ```
+
+To create a DataFrame named ```df2``` from an excel file named ```datal.xls```:
+
+```python
+df2 = pd.read_excel('data1.xls')
+```
