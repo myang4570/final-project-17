@@ -39,6 +39,7 @@ If you need help sourcing data, let me know. I can help
 
 ## Step 2 - How are you planning to visualize the data?
 
+* Take a look around the [Bokeh Gallery](http://bokeh.pydata.org/en/latest/docs/gallery.html#gallery)
 * In a file called ```vis-ideas.md```, list some ideas for how you want to visualize your data
 * You won't necessarily get to all of them, but that's okay
 * Try to include some you might not necessarily know how to do yet
